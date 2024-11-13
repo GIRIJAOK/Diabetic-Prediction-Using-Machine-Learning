@@ -7,11 +7,8 @@ This project focuses on predicting whether a person has diabetes based on variou
 - [Overview](#overview)
 - [Installation](#installation)
 - [Dataset](#dataset)
-- [How to Use](#how-to-use)
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
